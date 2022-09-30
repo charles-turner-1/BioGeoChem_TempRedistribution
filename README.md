@@ -1,7 +1,6 @@
 # BioGeoChem_TempRedistribution
 An attempt to use some basic ML techniques to estimate excess temperature.
-**WARNING** 
-This is going to be written in a mixture of Julia and Python. 
+**WARNING:** This is going to be written in a mixture of Julia and Python. 
 
 ## The basic idea
 - In https://os.copernicus.org/articles/18/523/2022/, we showed how by doing a bunch of feature engineering, you could pretty reliably extract a change in temperature due to redistribution from a natural DIC change. This was done with a model.
