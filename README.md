@@ -1,4 +1,4 @@
-# BioGeoChem_TempRedistribution
+# Biogeochemical predictor for temperature redistribution
 An attempt to use some basic ML techniques to estimate excess temperature.
 **WARNING:** This is going to be written in a mixture of Julia and Python. 
 
